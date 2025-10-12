@@ -1,0 +1,28 @@
+{
+  "name": "gerzhan-tpl-docs-repo",
+  "version": "0.0.3",
+  "description": "[github.com/gerzhan/gerzhan-tpl-docs-repo](https://github.com/gerzhan/gerzhan-tpl-docs-repo)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve ./docs -p 4233"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerzhan/gerzhan-tpl-docs-repo.git"
+  },
+  "keywords": [
+    "documentation"
+  ],
+  "author": "Nikolay Gerzhan <nikolay.gerzhan@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerzhan/gerzhan-tpl-docs-repo/issues"
+  },
+  "homepage": "https://github.com/gerzhan/gerzhan-tpl-docs-repo#readme",
+  "dependencies": {
+    "docsify": "^4.13.0"
+  }
+}
