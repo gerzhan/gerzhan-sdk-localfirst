@@ -1,5 +1,5 @@
 {
-  "name": "with-tailwind",
+  "name": "gerzhan-sdk-localfirst",
   "private": true,
   "scripts": {
     "build": "turbo run build",

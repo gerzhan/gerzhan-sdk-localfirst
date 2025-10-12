@@ -1,4 +1,6 @@
-# Turborepo Tailwind CSS starter
+# Gerzhan | SDK LocalFirst
+
+[github.com/gerzhan/gerzhan-sdk-localfirst](https://github.com/gerzhan/gerzhan-sdk-localfirst)
 
 This Turborepo starter is maintained by the Turborepo core team.
 
@@ -19,8 +21,8 @@ This Turborepo includes the following packages/apps:
 - `docs`: a [Next.js](https://nextjs.org/) app with [Tailwind CSS](https://tailwindcss.com/)
 - `web`: another [Next.js](https://nextjs.org/) app with [Tailwind CSS](https://tailwindcss.com/)
 - `ui`: a stub React component library with [Tailwind CSS](https://tailwindcss.com/) shared by both `web` and `docs` applications
-- `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
+- `@gerzhan/sdk-localfirst_eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
+- `@gerzhan/sdk-localfirst_typescript-config`: `tsconfig.json`s used throughout the monorepo
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 
